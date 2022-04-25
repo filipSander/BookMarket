@@ -23,8 +23,8 @@ namespace BookMarket
             Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
             description.Text = operation;
             await Task.Delay(1000);
-            this.Close();
+            Close();
         }
-        private void loadForm_Load(object sender, EventArgs e) => exit();
+        private void FormLoad(object sender, EventArgs e) => exit();
     }
 }

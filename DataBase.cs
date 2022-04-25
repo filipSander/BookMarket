@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 using System.Data;
+using System.Windows.Forms;
 
 namespace BookMarket
 {
@@ -48,6 +49,7 @@ namespace BookMarket
             }
             else
                 new ErrorForm("Ошибка соединения с бд.", 0).Show();
+                
             return table;
         }
 

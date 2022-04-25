@@ -96,7 +96,7 @@ namespace BookMarket
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "loadForm";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.loadForm_Load);
+            this.Load += new System.EventHandler(this.FormLoad);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

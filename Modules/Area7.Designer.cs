@@ -30,7 +30,6 @@
         {
             this.container = new System.Windows.Forms.Panel();
             this.header = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.header.SuspendLayout();
             this.SuspendLayout();
@@ -45,28 +44,12 @@
             // 
             // header
             // 
-            this.header.Controls.Add(this.button2);
             this.header.Controls.Add(this.button1);
             this.header.Dock = System.Windows.Forms.DockStyle.Top;
             this.header.Location = new System.Drawing.Point(0, 0);
             this.header.Name = "header";
             this.header.Size = new System.Drawing.Size(680, 30);
             this.header.TabIndex = 2;
-            // 
-            // button2
-            // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSlateGray;
-            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Location = new System.Drawing.Point(104, 0);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(145, 30);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Соединение с БД";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -100,7 +83,6 @@
 
         private System.Windows.Forms.Panel container;
         private System.Windows.Forms.Panel header;
-        private System.Windows.Forms.Button button2;
         public System.Windows.Forms.Button button1;
     }
 }
