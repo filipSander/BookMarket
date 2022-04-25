@@ -7,7 +7,6 @@
   + `MySqlConnection connection = new MySqlConnection("server=??;port=??;username=??;password=??;database=??;");`
 
 ## Описание бд
-![Логическая модель бд](https://vk.com/im?sel=165561651&z=photo165561651_457465003%2Fmail196061"Построенна в програме ERwin data modeler")
 
-
-
+![rd (1)](https://user-images.githubusercontent.com/94076463/165080479-69fae666-ff0c-4521-bc46-4497193a7448.jpg)
+![rd (2)](https://user-images.githubusercontent.com/94076463/165080482-75da6ecc-beea-4915-bebb-598a566bcbf4.jpg)
