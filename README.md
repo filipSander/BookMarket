@@ -8,5 +8,5 @@
 
 ## Описание бд
 
-![Логическая модель](https://user-images.githubusercontent.com/94076463/165080479-69fae666-ff0c-4521-bc46-4497193a7448.jpg, "asd")
+![Логическая модель](https://user-images.githubusercontent.com/94076463/165080479-69fae666-ff0c-4521-bc46-4497193a7448.jpg "asd")
 ![Физическая модель](https://user-images.githubusercontent.com/94076463/165080482-75da6ecc-beea-4915-bebb-598a566bcbf4.jpg)
