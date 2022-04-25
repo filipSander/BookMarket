@@ -8,5 +8,5 @@
 
 ## Описание бд
 
-![Логическая модель](https://user-images.githubusercontent.com/94076463/165080479-69fae666-ff0c-4521-bc46-4497193a7448.jpg "Логическая модель, построенная в программе ERwin data modeler")
-![Физическая модель](https://user-images.githubusercontent.com/94076463/165080482-75da6ecc-beea-4915-bebb-598a566bcbf4.jpg "Физическая модель, построенная в программе ERwin data modeler")
+![Логическая модель](https://user-images.githubusercontent.com/94076463/165090074-3620b0eb-284d-4383-90c6-a27ddbb392a3.jpg "Логическая модель, построенная в программе ERwin data modeler")
+![Физическая модель](https://user-images.githubusercontent.com/94076463/165090077-254aed8b-eb91-4284-9c23-bb8415f2c29c.jpg "Физическая модель, построенная в программе ERwin data modeler")
